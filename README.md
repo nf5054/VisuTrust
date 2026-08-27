@@ -8,7 +8,6 @@
 
 ## 📸 UI Showcase & Screenshots
 
-> *Add your application screenshots below by placing image files inside a `screenshots/` folder.*
 
 ### 🖥️ Main Dashboard & Smart Contract Hub
 ![Dashboard Overview](./screenshots/dashboard.png)
@@ -92,4 +91,5 @@ This distribution comes pre-packaged with executable files ready to run without 
 1. Inside the Web Application dashboard, navigate to the **Contracts** or **Active Monitoring** section.
 2. Click **Establish Uplink** and enter your Edge Node address (use `http://localhost:8080` if running on the same PC).
 3. Select a contract target to start real-time vision verification!
-   *its still a concept we didnt finish the system YET.
+---
+ *its still a concept we didnt finish the system YET.
