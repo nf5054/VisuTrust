@@ -6,7 +6,6 @@
 
 ---
 
-## 📸 UI Showcase & Screenshots
 
 
 ### 🖥️ Main Dashboard & Smart Contract Hub
